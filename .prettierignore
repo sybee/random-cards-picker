@@ -1,0 +1,16 @@
+# Misc
+.DS_Store
+.fleet
+.idea
+
+# IDE
+.idea
+
+# Service worker
+sw.*
+
+# macOS
+.DS_Store
+
+# Vim swap files
+*.swp
